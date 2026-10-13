@@ -1,0 +1,21 @@
+{
+  "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNDRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL",
+  "templates": [
+    {
+      "file": "example_inputs/fold_tnfalpha_human_template_hit_0_chains_a_b_c.cif",
+      "mode": "auto"
+    },
+    {
+      "file": "example_inputs/fold_tnfalpha_human_template_hit_1_chains_a_b_c.cif",
+      "mode": "auto"
+    },
+    {
+      "file": "example_inputs/fold_tnfalpha_human_template_hit_2_chains_a_b_c.cif",
+      "mode": "auto"
+    },
+    {
+      "file": "example_inputs/fold_tnfalpha_human_template_hit_3_chains_a_b_c.cif",
+      "mode": "auto"
+    }
+  ]
+}
